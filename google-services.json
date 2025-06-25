@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954789839335",
+    "project_id": "fullimagepro",
+    "storage_bucket": "fullimagepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954789839335:android:ef56b0c221e9e558317d42",
+        "android_client_info": {
+          "package_name": "com.example.imagepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe9NR7ASj8DA0nTqP0q6X3fsxZwR-uRmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
